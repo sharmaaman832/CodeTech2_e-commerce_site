@@ -1,9 +1,13 @@
 # CodeTech2_e-commerce_site
 
 Name: AMAN SHARMA
+
 company: CODETECH IT SOLUTIONS
+
 ID :CT08DS9991
+
 Domain: web development
+
 Duration: Nov to Dec 2024
 
 # Overview of the project
